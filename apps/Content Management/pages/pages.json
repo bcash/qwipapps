@@ -1,0 +1,7 @@
+{
+	"description" : "Simple Page Includes",
+	"name" : "bcash/qwip-pages",
+	"require": {
+		"php": ">=5.2.4"
+	}
+}
