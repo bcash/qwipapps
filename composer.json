@@ -1,0 +1,7 @@
+{
+	"description" : "QWIP Apps Directory",
+	"name" : "bcash/qwipapps",
+	"require": {
+		"php": ">=5.2.4"
+	}
+}
