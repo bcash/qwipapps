@@ -1,0 +1,7 @@
+{
+	"description" : "Template App",
+	"name" : "bcash/qwip-template",
+	"require": {
+		"php": ">=5.2.4"
+	}
+}
